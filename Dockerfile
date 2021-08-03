@@ -1,4 +1,4 @@
-FROM ubuntu:xenial-20210416
+FROM ubuntu:20.04
 
 # Update OS Packages, Install OS Dependencies (Do this in one line to ensure Update always happens)
 RUN apt-get update && \
