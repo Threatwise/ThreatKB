@@ -66,7 +66,7 @@ vine==1.1.4
 Werkzeug==0.15.5
 Whoosh==2.7.4
 WTForms==2.1
-yara-python==3.6.3
+yara-python==4.2.3
 envoy==0.0.3
 
 
