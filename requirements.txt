@@ -14,7 +14,7 @@ click==7.0
 decorator==4.0.11
 deepdiff==3.3.0
 dnspython==1.15.0
-Flask==1.1.1
+Flask==2.2.5
 Flask-Caching==1.4.0
 Flask-Selfdoc==1.1.0
 Flask-Autodoc==0.1.2
