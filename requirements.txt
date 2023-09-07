@@ -61,7 +61,7 @@ SQLAlchemy==1.2.18
 sqlalchemy-migrate==0.7.2
 Tempita==0.5.2
 urllib3==1.25.9
-uwsgi==2.0.17.1
+uwsgi==2.0.22.1
 vine==1.1.4
 Werkzeug==0.15.5
 Whoosh==2.7.4
