@@ -63,7 +63,7 @@ Tempita==0.5.2
 urllib3==1.25.9
 uwsgi==2.0.17.1
 vine==1.1.4
-Werkzeug==0.15.5
+Werkzeug==3.0.1
 Whoosh==2.7.4
 WTForms==2.1
 yara-python==3.6.3
