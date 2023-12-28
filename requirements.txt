@@ -14,7 +14,7 @@ click==7.0
 decorator==4.0.11
 deepdiff==3.3.0
 dnspython==1.15.0
-Flask==1.1.1
+Flask==2.2.5
 Flask-Caching==1.4.0
 Flask-Selfdoc==1.1.0
 Flask-Autodoc==0.1.2
@@ -63,10 +63,11 @@ Tempita==0.5.2
 urllib3==1.25.9
 uwsgi==2.0.17.1
 vine==1.1.4
-Werkzeug==0.15.5
+Werkzeug==2.3.8
 Whoosh==2.7.4
 WTForms==2.1
 yara-python==3.6.3
 envoy==0.0.3
 
 
+cryptography>=41.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
